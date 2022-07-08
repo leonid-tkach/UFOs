@@ -22,7 +22,7 @@ Now suppose you need only triangular UFOs. Just type "triangle" in the filed "En
 
 ### Drawback
 
-The webpage works, but its user has to type in the values in its filters, which takes time and prone to typos.
+The webpage works, but its user has to type in the values in its filters, which takes time and is prone to typos.
 
 ### Recommendations
 
